@@ -1,7 +1,8 @@
 # Projeto Front-End
 
   Olá, me chamo Kauã Castro, fiz este front-end responsivo com total ajuda do Prof. Bruno
- Rodrigues, a ideai era fazer um Site de Portifólios,mas ainda não tem utilidades Back-end, mas prentendo implementar no futuro e mudar as imagens de base.
+ Rodrigues. 
+  A ideai era fazer um Site de Portifólios, mas ainda não tem utilidades Back-end, no entanto prentendo implementar no futuro e mudar as imagens de base.
 
 ## Tecnologias Utilizadas
 
